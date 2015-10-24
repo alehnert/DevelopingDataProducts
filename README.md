@@ -1,8 +1,8 @@
----
-title: "ReadMe for Coursera Developing Data Products Course Project"
-author: "Adrienne Lehnert"
-date: "October 24, 2015"
----
+
+# ReadMe for Coursera Developing Data Products Course Project  
+author: "Adrienne Lehnert"  
+date: "October 24, 2015"  
+
 Folder contains  
 - server.R: server file for shiny App  
 - ui.R: user interface file for shiny App  
