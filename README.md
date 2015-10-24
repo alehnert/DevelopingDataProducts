@@ -20,10 +20,11 @@ The app will take input from the user in the form of a US state abbreviation and
 4.	Histogram of the earthquakes by magnitude in the USA  
 
 ## Instructions for use of the shiny App  
-1.	Enter the two letter abbreviation of a USA state or territory  
-2.	Enter the minimum magnitude of earthquake (this must be greater than or equal to zero)  
-3.	Press “Go”  
-4.	Subsequent updates to #1 and #2 will update the information and figures immediately  
-5.	If an incorrect abbreviation is provided a red error message will appear reading “invalid pattern argument” but the histogram of all earthquakes in the US will still appear  
+1.	Go to published shiny App on shinyapps.io: https://alehnert.shinyapps.io/Apps  
+2.	Enter the two letter abbreviation of a USA state or territory  
+3.	Enter the minimum magnitude of earthquake (this must be greater than or equal to zero)  
+4.	Press “Go”  
+5.	Subsequent updates to #1 and #2 will update the information and figures immediately  
+6.	If an incorrect abbreviation is provided a red error message will appear reading “invalid pattern argument” but the histogram of all earthquakes in the US will still appear  
 
 
